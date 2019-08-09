@@ -21,6 +21,7 @@ baseurl: "blog.asrg.io" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: AutoSecResGroup
 github_username: ASRG
+logo: ./logo.png
 
 # Build settings
 markdown: kramdown
